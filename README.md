@@ -7,7 +7,7 @@ This challenge focused on basic pandas and Matplotlib concepts using Jupyter Not
 
 ## Skills Displayed: 
 * Reading data from large external files 
-* Navigation and exploration of large dataframes 
+* Navigation, exploration and cleaning of large dataframes 
 * Generation of plots using Matplotlib in Jupyter Notebook
 * Basic statistics and calculations using pandas 
 
@@ -25,7 +25,7 @@ The final report includes the following:
 * A bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
 ![](images/datapoints.png)
 
-* A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+* A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers.
 
 ![](images/finaltumor.png)
 
