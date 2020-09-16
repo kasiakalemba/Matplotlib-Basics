@@ -3,6 +3,8 @@
 ## Summary: 
 This challenge focused on basic pandas and Matplotlib concepts using Jupyter Notebook. Our task The was to analyze research data from a mouse cancer study. The final results were statistical tables and graphs. 
 
+* [Jupyter Notebook](https://nbviewer.jupyter.org/github/kasiakalemba/Matplotlib-Cancer-Study/blob/master/Pymaceuticals.ipynb#/) 
+
 ## Skills Displayed: 
 * Reading data from large external files 
 * Navigation and exploration of large dataframes 
@@ -10,22 +12,29 @@ This challenge focused on basic pandas and Matplotlib concepts using Jupyter Not
 * Basic statistics and calculations using pandas 
 
 ## The Power of Plots 
-
 In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. We were tasked to generate all of the tables and figures needed for the technical report of the study. 
 
 The final report includes the following: 
+* Combination of two datasets into a single dataframe 
+![](images/fig1)
 
-* Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+* A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
-* Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
+![](images/fig2)
 
-* Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+* A bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
 
-* Generate a line plot of time point versus tumor volume for mouse number l509 treated with Capomulin.
+* A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
-* Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+![](images/finaltumor.png)
+* A line plot of time point versus tumor volume for mouse number l509 treated with Capomulin.
 
-* Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+![](images/campomulin_mouse509.png)
+
+* The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
+
+![](images/weight_tumor.png)
+
 
 
 
