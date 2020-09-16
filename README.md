@@ -22,7 +22,7 @@ The final report includes the following:
 
 ![](images/fig2.png)
 
-* A bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
+* A bar plot that shows the number of data points for each treatment regimen.
 ![](images/datapointss.png)
 
 * A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers.
