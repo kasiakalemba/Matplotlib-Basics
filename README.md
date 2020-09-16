@@ -23,6 +23,8 @@ The final report includes the following:
 ![](images/fig2.png)
 
 * A bar plot that shows the number of data points for each treatment regimen.
+&nbsp
+
 ![](images/datapointss.png)
 
 * A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers.
