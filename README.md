@@ -1,4 +1,4 @@
-# Matplotlib Challenge - Basic Skills Demonstration
+# Matplotlib Challenge: Cancer Drug Analysis
 
 ## Summary: 
 This challenge focused on basic pandas and Matplotlib concepts using Jupyter Notebook. Our task The was to analyze research data from a mouse cancer study. The final results were statistical tables and graphs. 
