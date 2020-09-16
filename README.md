@@ -16,29 +16,29 @@ In this study, 250 mice identified with SCC tumor growth were treated through a 
 
 The final report includes the following: 
 * Combination of two datasets into a single dataframe 
+<p>&nbsp;</p>
 ![](images/fig1.png)
 
 * A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
-
+<p>&nbsp;</p>
 ![](images/fig2.png)
 
 * A bar plot that shows the number of data points for each treatment regimen.
-&nbsp
-
+<p>&nbsp;</p>
 ![](images/datapointss.png)
 
 * A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers.
-
+<p>&nbsp;</p>
 ![](images/finaltumor.png)
 
 * A line plot of time point versus tumor volume for mouse number l509 treated with Capomulin.
-
+<p>&nbsp;</p>
 ![](images/campomulin_mousel509.png)
 
 * The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
-
+<p>&nbsp;</p>
 ![](images/fig3.png)
-
+<p>&nbsp;</p>
 ![](images/weight_tumor.png)
 
 
