@@ -23,7 +23,7 @@ The final report includes the following:
 ![](images/fig2.png)
 
 * A bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
-![](images/datapoints.png)
+![](images/datapointss.png)
 
 * A box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers.
 
@@ -31,7 +31,7 @@ The final report includes the following:
 
 * A line plot of time point versus tumor volume for mouse number l509 treated with Capomulin.
 
-![](images/campomulin_mouse509.png)
+![](images/campomulin_mousel509.png)
 
 * The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 
