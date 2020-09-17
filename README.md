@@ -1,6 +1,7 @@
 # Matplotlib Challenge: Cancer Drug Analysis
 
 ## Summary: 
+
 This challenge focused on basic pandas and Matplotlib concepts using Jupyter Notebook. Our task The was to analyze research data from a mouse cancer study. The final results were statistical tables and graphs. 
 
 * [Jupyter Notebook](https://nbviewer.jupyter.org/github/kasiakalemba/Matplotlib-Cancer-Study/blob/master/Pymaceuticals.ipynb#/) 
