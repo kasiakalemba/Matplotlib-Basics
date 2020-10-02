@@ -1,16 +1,19 @@
-# Matplotlib Challenge: Cancer Drug Analysis
+# Cancer Drug Analysis Using Matplotlib 
 
-## Summary: 
-
+## Summary 
 This project focused on basic pandas and Matplotlib concepts using Jupyter Notebook. I analyzed practice research data from a mouse cancer study. The final results were displayed with statistical tables and graphs. 
 
 * [Jupyter Notebook](https://nbviewer.jupyter.org/github/kasiakalemba/Matplotlib-Cancer-Study/blob/master/Pymaceuticals.ipynb#/) 
 
-## Skills Displayed: 
+## Skills Displayed
 * Reading data from external files 
 * Navigation, exploration and cleaning of dataframes 
 * Generation of plots using Matplotlib in Jupyter Notebook
 * Basic statistics and calculations using pandas 
+
+## Technologies Used
+* Pandas 
+* Matplotlib
 
 ## The Power of Plots 
 In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. We were tasked to generate all of the tables and figures needed for the technical report of the study. 
